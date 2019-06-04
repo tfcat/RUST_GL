@@ -1,0 +1,9 @@
+[package]
+name = "rust_gl"
+version = "0.1.0"
+authors = ["tfcat <danbrierly@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+sdl2 = "0.31.0"
+gl = "0.10.0"
